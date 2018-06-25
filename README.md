@@ -1,6 +1,8 @@
 ## Introduction
 This repository provides with the structure used to build [MetalCloud Dashboard](http://pritishvaidya.com/metalcloud-dashboard).
 
+The main focus is on implementation of [`Redux Saga`](https://github.com/redux-saga/redux-saga) for handling the side effects, typechecking using [`Flow`](https://flow.org/en/docs/frameworks/react/), and concept of [`CSS in JS`](https://speakerdeck.com/vjeux/react-css-in-js?slide=26) using [`styled-components`](https://github.com/styled-components/styled-components)
+
 ## Getting Started
 
 - Clone this repository
